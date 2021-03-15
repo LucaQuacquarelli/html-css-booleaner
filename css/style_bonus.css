@@ -88,7 +88,7 @@ main{
     height: 200px;
 }
 
-#table-head{
+.table-head{
     width: 400px;
     height: 3px;
     background-color: #1E90FF; 
